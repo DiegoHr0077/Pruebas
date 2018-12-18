@@ -16,6 +16,9 @@ public class ControlVersiones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Linea1");
+        System.out.println("Linea2");
+        System.out.println("Linea3");
     }
 
 }
